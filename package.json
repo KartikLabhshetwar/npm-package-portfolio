@@ -1,0 +1,42 @@
+{
+  "name": "hello-kartik",
+  "version": "1.0.0",
+  "description": "A terminal interface to showcase my profile.",
+  "main": "bin/index.js",
+  "type": "module",
+  "bin": {
+    "hello-kartik": "bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartikLabhshetwar/npm-package-portfolio.git"
+  },
+  "keywords": [
+    "cli",
+    "portfolio",
+    "terminal",
+    "profile",
+    "kartik-labhshetwar",
+    "hello-kartik"
+  ],
+  "author": { "name": "Kartik Labhshetwar",
+    "email": "kartik.labhshetwar@gmail.com",
+    "url": "https://kartiklabhshetwar.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KartikLabhshetwar/npm-package-portfolio/issues"
+  },
+  "homepage": "https://github.com/KartikLabhshetwar/npm-package-portfolio#readme",
+  "engine": {
+    "node": ">=14.16"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.1.2",
+    "open": "^8.0.6"
+  }
+}
