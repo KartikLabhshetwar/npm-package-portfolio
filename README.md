@@ -1,6 +1,6 @@
 # npm-package-portfolio
 
-A beautiful terminal interface to view Kartik Labhshetwar's profile and projects
+A beautiful terminal interface to view Kartik Labhshetwar's profile and projects. 
 
 ## Usage
 Just run:
